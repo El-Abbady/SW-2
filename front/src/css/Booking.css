@@ -1,0 +1,23 @@
+.row{
+    display: flex;
+    position: relative;
+}
+button :hover{
+    
+    opacity: 1;
+    color: white;
+    font-weight: bolder;
+    font-size: larger;
+}
+button{
+    background-color: #70232a;
+    padding: 0.5rem;
+    /* font-size: larger; */
+    font-weight: bolder;
+    color: white;
+  
+}
+Link{
+   color: white;
+}
+
